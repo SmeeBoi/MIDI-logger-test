@@ -1,3 +1,5 @@
+# run: git submodule update --init
+# To install git submodules locally (JUCE, cmake files, melatonin inspector)
 # 3.24.1 is bundled in Visual Studio 2022 v17.4
 # 3.24.1 is also bundled in CLion as of 2023
 cmake_minimum_required(VERSION 3.24.1)
